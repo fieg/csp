@@ -4,7 +4,7 @@
     "description": "Implementation of a Constraint Satisfaction Problem algorithm in PHP",
     "type": "library",
     "keywords": ["artificial", "intelligence", "constraint", "satisfaction", "problem"],
-    "homepage": "https://github.com/fieg/graph-search",
+    "homepage": "https://github.com/fieg/csp",
     "authors": [
       {
         "name": "fieg",
